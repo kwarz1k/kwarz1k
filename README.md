@@ -20,7 +20,7 @@ My goal is to do something that will benefit society! <br/>
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="5" />
 </div>
-
+<br/>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=kwarz1k&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
