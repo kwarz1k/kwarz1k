@@ -1,7 +1,8 @@
 ## Hi What's Up I'm Alexey 👋
 
-Beginner back-end developer <br/>
+Beginner back-end and Game developer <br/>
 My goal is to do something that will benefit society! <br/>
+i was born in Kaliningrad <br/>
 
 # 💻 Tech Stack:
 <div align="center">
