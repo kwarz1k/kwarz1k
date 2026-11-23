@@ -16,29 +16,23 @@
 
 #### 🎨 Frontend
 <p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="SCSS" />
-  <img src="https://shields.io" alt="Tailwind CSS" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Frontend Stack" />
+  </a>
 </p>
 
 #### ⚙️ Backend & Databases
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt=".NET" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="SQLite" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Backend Stack" />
+  </a>
 </p>
 
 #### 🛠️ DevOps, GameDev & Design Tools
 <p align="left">
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Figma" />
-  <img src="https://shields.io" alt="Blender" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Tools Stack" />
+  </a>
 </p>
 
 ---
@@ -46,8 +40,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
+  <img height="180em" src="https://vercel.app" alt="GitHub Stats" />
+  <img height="180em" src="https://vercel.app" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -59,7 +53,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://githubusercontent.com" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
