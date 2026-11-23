@@ -78,8 +78,3 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="[https://githubusercontent.com](https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg)" alt="Contribution Snake" />
-</div>
