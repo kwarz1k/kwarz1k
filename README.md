@@ -24,36 +24,36 @@
     <td width="33%" valign="top" align="center">
       <h4>🎨 Frontend</h4>
       <br/>
-      <img src="https://jsdelivr.net" width="42" height="42" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
-      <img src="https://jsdelivr.net" width="42" height="42" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
-      <img src="https://jsdelivr.net" width="42" height="42" alt="SCSS" title="SCSS" />
+      <img src="icons/html5.svg" width="42" height="42" alt="HTML5" />&nbsp;&nbsp;
+      <img src="icons/css3.svg" width="42" height="42" alt="CSS3" />&nbsp;&nbsp;
+      <img src="icons/sass.svg" width="42" height="42" alt="SCSS" />
       <br/><br/>
-      <img src="https://jsdelivr.net" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
-      <img src="https://jsdelivr.net" width="42" height="42" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-      <img src="https://jsdelivr.net" width="42" height="42" alt="React" title="React" />
+      <img src="icons/tailwindcss.svg" width="42" height="42" alt="Tailwind CSS" />&nbsp;&nbsp;
+      <img src="icons/javascript.svg" width="42" height="42" alt="JavaScript" />&nbsp;&nbsp;
+      <img src="icons/react.svg" width="42" height="42" alt="React" />
       <br/><br/>
       <sub><code>HTML5</code> • <code>CSS3</code> • <code>SCSS</code> • <code>Tailwind</code> • <code>JS</code> • <code>React</code></sub>
     </td>
     <td width="33%" valign="top" align="center">
       <h4>⚙️ Backend & Databases</h4>
       <br/>
-      <img src="https://jsdelivr.net" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;
-      <img src="https://jsdelivr.net" width="42" height="42" alt="C#" title="C#" />&nbsp;&nbsp;
-      <img src="https://jsdelivr.net" width="42" height="42" alt=".NET" title=".NET" />
+      <img src="icons/python.svg" width="42" height="42" alt="Python" />&nbsp;&nbsp;
+      <img src="icons/csharp.svg" width="42" height="42" alt="C#" />&nbsp;&nbsp;
+      <img src="icons/dotnetcore.svg" width="42" height="42" alt=".NET" />
       <br/><br/>
-      <img src="https://jsdelivr.net" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
-      <img src="https://jsdelivr.net" width="42" height="42" alt="SQLite" title="SQLite" />
+      <img src="icons/postgresql.svg" width="42" height="42" alt="PostgreSQL" />&nbsp;&nbsp;
+      <img src="icons/sqlite.svg" width="42" height="42" alt="SQLite" />
       <br/><br/>
       <sub><code>Python</code> • <code>C#</code> • <code>.NET</code> • <code>PostgreSQL</code> • <code>SQLite</code></sub>
     </td>
     <td width="33%" valign="top" align="center">
       <h4>🛠️ DevOps, GameDev & Design</h4>
       <br/>
-      <img src="https://jsdelivr.net" width="42" height="42" alt="Docker" title="Docker" />&nbsp;&nbsp;
-      <img src="https://jsdelivr.net" width="42" height="42" alt="Git" title="Git" />
+      <img src="icons/docker.svg" width="42" height="42" alt="Docker" />&nbsp;&nbsp;
+      <img src="icons/git.svg" width="42" height="42" alt="Git" />
       <br/><br/>
-      <img src="https://jsdelivr.net" width="42" height="42" alt="Figma" title="Figma" />&nbsp;&nbsp;
-      <img src="https://jsdelivr.net" width="42" height="42" alt="Blender" title="Blender" />
+      <img src="icons/figma.svg" width="42" height="42" alt="Figma" />&nbsp;&nbsp;
+      <img src="icons/blender.svg" width="42" height="42" alt="Blender" />
       <br/><br/>
       <sub><code>Docker</code> • <code>Git</code> • <code>Figma</code> • <code>Blender</code></sub>
     </td>
@@ -79,22 +79,6 @@ class Developer:
     def get_mission(self) -> str:
         return "Build meaningful software that benefits society! 🚀"
 ```
-
----
-
-### 🎯 Focus Areas & Roadmap
-
-> [!NOTE]
-> **🌐 Full-Stack Web Development**  
-> Building modern, responsive interfaces with **React** & **Tailwind CSS**, paired with robust REST APIs in **Python** and **C# (.NET)**.
-
-> [!TIP]
-> **🗄️ Database Architecture & Containers**  
-> Designing relational schemas in **PostgreSQL** & **SQLite** and packaging applications cleanly with **Docker**.
-
-> [!CAUTION]
-> **🎮 Game Development & 3D Modeling**  
-> Exploring game mechanics in **C#** and crafting 3D models & scenes in **Blender** + **Figma**.
 
 ---
 
