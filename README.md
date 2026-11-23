@@ -12,50 +12,24 @@
 
 ### 💻 Tech Stack
 
-#### 🎨 Frontend
-<p align="left">
-  <img src="https://githubusercontent.com" width="48" height="48" alt="HTML" />
-  <img src="https://githubusercontent.com" width="48" height="48" alt="CSS" />
-  <img src="https://githubusercontent.com" width="48" height="48" alt="SCSS" />
-  <img src="https://githubusercontent.com" width="48" height="48" alt="Tailwind CSS" />
-  <img src="https://githubusercontent.com" width="48" height="48" alt="JavaScript" />
-  <img src="https://githubusercontent.com" width="48" height="48" alt="React" />
-</p>
-
-#### ⚙️ Backend & Databases
-<p align="left">
-  <img src="https://githubusercontent.com" width="48" height="48" alt="Python" />
-  <img src="https://githubusercontent.com" width="48" height="48" alt="C#" />
-  <img src="https://githubusercontent.com" width="48" height="48" alt=".NET" />
-  <img src="https://githubusercontent.com" width="48" height="48" alt="PostgreSQL" />
-  <img src="https://githubusercontent.com" width="48" height="48" alt="SQLite" />
-</p>
-
-#### 🛠️ DevOps, GameDev & Design Tools
-<p align="left">
-  <img src="https://githubusercontent.com" width="48" height="48" alt="Docker" />
-  <img src="https://githubusercontent.com" width="48" height="48" alt="Git" />
-  <img src="https://githubusercontent.com" width="48" height="48" alt="Figma" />
-  <img src="https://githubusercontent.com" width="48" height="48" alt="Blender" />
-</p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| 🎨 **Frontend** | `HTML5` • `CSS3` • `SCSS` • `Tailwind CSS` • `JavaScript` • `React` |
+| ⚙️ **Backend & DB** | `Python` • `C#` • `.NET` • `PostgreSQL` • `SQLite` |
+| 🛠️ **Tools & GameDev** | `Docker` • `Git` • `Figma` • `Blender` |
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 About Me & Focus
 
-<div align="center">
-  <img height="180em" src="https://vercel.app" alt="GitHub Stats" />
-  <img height="180em" src="https://vercel.app" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</div>
+- 🔭 Currently working on **Full-Stack Web Applications** and **Game Development**
+- 🌱 Deepening my expertise in **React**, **Python**, and **C# / .NET**
+- 💡 Open to collaborating on projects that solve real-world problems
 
 ---
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://githubusercontent.com" alt="snake" />
+  <img src="https://githubusercontent.com" alt="Contribution Snake" />
 </div>
