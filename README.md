@@ -6,8 +6,6 @@
 *My goal is to build things that bring real value and benefit society!*  
 📍 Born and based in Kaliningrad, Russia
 
-[![Typing SVG](https://demolab.com)](https://git.io)
-
 </div>
 
 ---
@@ -16,23 +14,29 @@
 
 #### 🎨 Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Frontend Stack" />
-  </a>
+  <img src="https://githubusercontent.com" width="48" height="48" alt="HTML" />
+  <img src="https://githubusercontent.com" width="48" height="48" alt="CSS" />
+  <img src="https://githubusercontent.com" width="48" height="48" alt="SCSS" />
+  <img src="https://githubusercontent.com" width="48" height="48" alt="Tailwind CSS" />
+  <img src="https://githubusercontent.com" width="48" height="48" alt="JavaScript" />
+  <img src="https://githubusercontent.com" width="48" height="48" alt="React" />
 </p>
 
 #### ⚙️ Backend & Databases
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Backend Stack" />
-  </a>
+  <img src="https://githubusercontent.com" width="48" height="48" alt="Python" />
+  <img src="https://githubusercontent.com" width="48" height="48" alt="C#" />
+  <img src="https://githubusercontent.com" width="48" height="48" alt=".NET" />
+  <img src="https://githubusercontent.com" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://githubusercontent.com" width="48" height="48" alt="SQLite" />
 </p>
 
 #### 🛠️ DevOps, GameDev & Design Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Tools Stack" />
-  </a>
+  <img src="https://githubusercontent.com" width="48" height="48" alt="Docker" />
+  <img src="https://githubusercontent.com" width="48" height="48" alt="Git" />
+  <img src="https://githubusercontent.com" width="48" height="48" alt="Figma" />
+  <img src="https://githubusercontent.com" width="48" height="48" alt="Blender" />
 </p>
 
 ---
@@ -45,7 +49,7 @@
 </div>
 
 <div align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://demolab.com" alt="GitHub Streak" />
 </div>
 
 ---
@@ -53,12 +57,5 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
----
-
-### 💡 Random Dev Quote
-<div align="center">
-  <img src="https://vercel.app" alt="Random Dev Quote" />
+  <img src="https://githubusercontent.com" alt="snake" />
 </div>
