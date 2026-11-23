@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, What's Up! I'm Alexey 👋
+# 🚀 Hi, What's Up! I'm Alexey 👋
 
-### **`Full-Stack Web Developer`** &nbsp;•&nbsp; **`Game Dev Enthusiast`**
+### **`Full-Stack Web Developer`** &nbsp;⚡&nbsp; **`Game Dev Enthusiast`** &nbsp;⚡&nbsp; **`Problem Solver`**
 
 > *"My goal is to build things that bring real value and benefit society!"*  
-> 📍 **Kaliningrad, Russia**
+> 📍 **Born and based in Kaliningrad, Russia**
 
 </div>
 
@@ -13,68 +13,93 @@
 
 > [!IMPORTANT]
 > ### 👨‍💻 About Me
-> Passionate **Full-Stack & Game Developer** focused on building scalable web applications, clean backends, and interactive digital experiences. Always learning new technologies and turning ideas into working code.
+> Hi! I'm **Alexey (`kwarz1k`)** — a passionate **Full-Stack & Game Developer**. I love turning complex ideas into clean, fast, and user-friendly applications. Whether it's crafting responsive interfaces, building scalable backends, or designing 3D worlds, I'm always pushing my skills forward.
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Tools
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🎨 Frontend</h4>
-      <ul>
-        <li>🟧 <b>HTML5</b></li>
-        <li>🟦 <b>CSS3</b> & 🟪 <b>SCSS</b></li>
-        <li>🩵 <b>Tailwind CSS</b></li>
-        <li>🟨 <b>JavaScript (ES6+)</b></li>
-        <li>⚛️ <b>React</b></li>
-      </ul>
+    <td width="33%" valign="top" align="center">
+      <h4>🎨 Frontend</h4>
+      <br/>
+      <img src="https://jsdelivr.net" width="42" height="42" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
+      <img src="https://jsdelivr.net" width="42" height="42" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
+      <img src="https://jsdelivr.net" width="42" height="42" alt="SCSS" title="SCSS" />
+      <br/><br/>
+      <img src="https://jsdelivr.net" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
+      <img src="https://jsdelivr.net" width="42" height="42" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+      <img src="https://jsdelivr.net" width="42" height="42" alt="React" title="React" />
+      <br/><br/>
+      <sub><code>HTML5</code> • <code>CSS3</code> • <code>SCSS</code> • <code>Tailwind</code> • <code>JS</code> • <code>React</code></sub>
     </td>
-    <td width="33%" valign="top">
-      <h4 align="center">⚙️ Backend & DB</h4>
-      <ul>
-        <li>🐍 <b>Python</b></li>
-        <li>💜 <b>C#</b> & 🔷 <b>.NET</b></li>
-        <li>🐘 <b>PostgreSQL</b></li>
-        <li>🗄️ <b>SQLite</b></li>
-      </ul>
+    <td width="33%" valign="top" align="center">
+      <h4>⚙️ Backend & Databases</h4>
+      <br/>
+      <img src="https://jsdelivr.net" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;
+      <img src="https://jsdelivr.net" width="42" height="42" alt="C#" title="C#" />&nbsp;&nbsp;
+      <img src="https://jsdelivr.net" width="42" height="42" alt=".NET" title=".NET" />
+      <br/><br/>
+      <img src="https://jsdelivr.net" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+      <img src="https://jsdelivr.net" width="42" height="42" alt="SQLite" title="SQLite" />
+      <br/><br/>
+      <sub><code>Python</code> • <code>C#</code> • <code>.NET</code> • <code>PostgreSQL</code> • <code>SQLite</code></sub>
     </td>
-    <td width="33%" valign="top">
-      <h4 align="center">🛠️ Tools & GameDev</h4>
-      <ul>
-        <li>🐳 <b>Docker</b></li>
-        <li>🦊 <b>Git</b> & GitHub</li>
-        <li>🎨 <b>Figma</b></li>
-        <li>🧊 <b>Blender</b></li>
-      </ul>
+    <td width="33%" valign="top" align="center">
+      <h4>🛠️ DevOps, GameDev & Design</h4>
+      <br/>
+      <img src="https://jsdelivr.net" width="42" height="42" alt="Docker" title="Docker" />&nbsp;&nbsp;
+      <img src="https://jsdelivr.net" width="42" height="42" alt="Git" title="Git" />
+      <br/><br/>
+      <img src="https://jsdelivr.net" width="42" height="42" alt="Figma" title="Figma" />&nbsp;&nbsp;
+      <img src="https://jsdelivr.net" width="42" height="42" alt="Blender" title="Blender" />
+      <br/><br/>
+      <sub><code>Docker</code> • <code>Git</code> • <code>Figma</code> • <code>Blender</code></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚡ Quick Overview
+### ⚡ Developer Profile
 
-```json
-{
-  "name": "Alexey",
-  "handle": "kwarz1k",
-  "role": "Full-Stack & Game Developer",
-  "location": "Kaliningrad, Russia",
-  "core_stack": ["Python", "C# / .NET", "JavaScript", "React", "PostgreSQL"],
-  "tools": ["Docker", "Git", "Tailwind CSS", "SCSS", "Figma", "Blender"],
-  "mission": "Create software that benefits society"
-}
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Alexey"
+        self.username = "kwarz1k"
+        self.location = "Kaliningrad, Russia 🇷🇺"
+        self.roles = ["Full-Stack Developer", "Game Developer"]
+        self.languages = ["Python", "C#", "JavaScript", "SQL", "HTML/CSS"]
+        self.frameworks = ["React", ".NET", "Tailwind CSS", "SCSS"]
+        self.databases = ["PostgreSQL", "SQLite"]
+        self.tools = ["Docker", "Git", "Figma", "Blender"]
+
+    def get_mission(self) -> str:
+        return "Build meaningful software that benefits society! 🚀"
 ```
 
 ---
 
+### 🎯 Focus Areas & Roadmap
+
+> [!NOTE]
+> **🌐 Full-Stack Web Development**  
+> Building modern, responsive interfaces with **React** & **Tailwind CSS**, paired with robust REST APIs in **Python** and **C# (.NET)**.
+
 > [!TIP]
-> ### 🎯 Current Focus & Goals
-> - 🚀 Building full-stack web apps with **React**, **Python**, and **C#**
-> - 🗄️ Designing reliable databases with **PostgreSQL** and **SQLite**
-> - 🎮 Creating 3D assets and game mechanics in **Blender** & **.NET**
+> **🗄️ Database Architecture & Containers**  
+> Designing relational schemas in **PostgreSQL** & **SQLite** and packaging applications cleanly with **Docker**.
+
+> [!CAUTION]
+> **🎮 Game Development & 3D Modeling**  
+> Exploring game mechanics in **C#** and crafting 3D models & scenes in **Blender** + **Figma**.
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://githubusercontent.com" alt="Contribution Snake" />
+</div>
