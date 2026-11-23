@@ -2,59 +2,84 @@
 
 # Hi, What's Up! I'm Alexey 👋
 
-**Full-Stack & Game Developer**  
-*My goal is to build things that bring real value and benefit society!*  
-📍 Born and based in Kaliningrad, Russia
+### **`Full-Stack Web Developer`** &nbsp;•&nbsp; **`Game Dev Enthusiast`**
+
+> *"My goal is to build things that bring real value and benefit society!"*  
+> 📍 **Kaliningrad, Russia**
 
 </div>
 
 ---
 
-### 💻 Tech Stack
-
-#### 🎨 Frontend
-<p align="left">
-  <img src="./icons/html.svg" width="45" height="45" alt="HTML5" title="HTML5" />
-  <img src="./icons/css.svg" width="45" height="45" alt="CSS3" title="CSS3" />
-  <img src="./icons/scss.svg" width="45" height="45" alt="SCSS" title="SCSS" />
-  <img src="./icons/tailwind.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="./icons/js.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
-  <img src="./icons/react.svg" width="45" height="45" alt="React" title="React" />
-</p>
-
-#### ⚙️ Backend & Databases
-<p align="left">
-  <img src="./icons/python.svg" width="45" height="45" alt="Python" title="Python" />
-  <img src="./icons/csharp.svg" width="45" height="45" alt="C#" title="C#" />
-  <img src="./icons/dotnet.svg" width="45" height="45" alt=".NET" title=".NET" />
-  <img src="./icons/postgres.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="./icons/sqlite.svg" width="45" height="45" alt="SQLite" title="SQLite" />
-</p>
-
-#### 🛠️ DevOps, GameDev & Design Tools
-<p align="left">
-  <img src="./icons/docker.svg" width="45" height="45" alt="Docker" title="Docker" />
-  <img src="./icons/git.svg" width="45" height="45" alt="Git" title="Git" />
-  <img src="./icons/figma.svg" width="45" height="45" alt="Figma" title="Figma" />
-  <img src="./icons/blender.svg" width="45" height="45" alt="Blender" title="Blender" />
-</p>
+> [!IMPORTANT]
+> ### 👨‍💻 About Me
+> Passionate **Full-Stack & Game Developer** focused on building scalable web applications, clean backends, and interactive digital experiences. Always learning new technologies and turning ideas into working code.
 
 ---
 
-### 📊 GitHub Analytics
+### 💻 Tech Stack
 
-> 💡 *Статистику тоже можно генерировать прямо в твой репозиторий через GitHub Actions (в папку `./stats/`), чтобы она не зависела от заблокированных серверов Vercel.*
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🎨 Frontend</h4>
+      <ul>
+        <li>🟧 <b>HTML5</b></li>
+        <li>🟦 <b>CSS3</b> & 🟪 <b>SCSS</b></li>
+        <li>🩵 <b>Tailwind CSS</b></li>
+        <li>🟨 <b>JavaScript (ES6+)</b></li>
+        <li>⚛️ <b>React</b></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">⚙️ Backend & DB</h4>
+      <ul>
+        <li>🐍 <b>Python</b></li>
+        <li>💜 <b>C#</b> & 🔷 <b>.NET</b></li>
+        <li>🐘 <b>PostgreSQL</b></li>
+        <li>🗄️ <b>SQLite</b></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">🛠️ Tools & GameDev</h4>
+      <ul>
+        <li>🐳 <b>Docker</b></li>
+        <li>🦊 <b>Git</b> & GitHub</li>
+        <li>🎨 <b>Figma</b></li>
+        <li>🧊 <b>Blender</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-| Metric | Details |
-| :--- | :--- |
-| 🚀 **Role** | Full-Stack Web & Game Developer |
-| 💻 **Core Stack** | Python, C# (.NET), JavaScript (React), PostgreSQL |
-| 📍 **Location** | Kaliningrad, Russia |
+---
+
+### ⚡ Quick Overview
+
+```json
+{
+  "name": "Alexey",
+  "handle": "kwarz1k",
+  "role": "Full-Stack & Game Developer",
+  "location": "Kaliningrad, Russia",
+  "core_stack": ["Python", "C# / .NET", "JavaScript", "React", "PostgreSQL"],
+  "tools": ["Docker", "Git", "Tailwind CSS", "SCSS", "Figma", "Blender"],
+  "mission": "Create software that benefits society"
+}
+```
+
+---
+
+> [!TIP]
+> ### 🎯 Current Focus & Goals
+> - 🚀 Building full-stack web apps with **React**, **Python**, and **C#**
+> - 🗄️ Designing reliable databases with **PostgreSQL** and **SQLite**
+> - 🎮 Creating 3D assets and game mechanics in **Blender** & **.NET**
 
 ---
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://githubusercontent.com" alt="Contribution Snake" />
 </div>
